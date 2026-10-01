@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+
+# Qdrant Storage
+qdrant_storage/
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store

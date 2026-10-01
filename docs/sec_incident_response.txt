@@ -1,0 +1,1 @@
+In the event of a P1 security breach, the incident response team must isolate the affected subnet within 15 minutes and notify the CISO immediately.

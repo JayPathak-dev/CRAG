@@ -1,0 +1,1 @@
+Our Kubernetes clusters use the Horizontal Pod Autoscaler (HPA). It triggers when CPU utilization exceeds 75% for more than 3 consecutive minutes.

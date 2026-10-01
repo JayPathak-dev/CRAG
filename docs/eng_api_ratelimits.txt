@@ -1,0 +1,1 @@
+The public-facing REST API enforces a strict rate limit of 100 requests per minute per IP address. Exceeding this triggers a 429 Too Many Requests response.

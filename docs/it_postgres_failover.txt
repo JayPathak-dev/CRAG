@@ -1,0 +1,1 @@
+The failover mechanism for our primary PostgreSQL cluster triggers automatically after 3 missed heartbeats. It routes traffic to the secondary cluster in the us-east-1 region.

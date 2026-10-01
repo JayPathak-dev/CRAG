@@ -1,0 +1,1 @@
+Employees must use Cisco AnyConnect for VPN access. Multi-factor authentication via Duo is strictly required for all connections outside the corporate network.
